@@ -1,0 +1,25 @@
+name: ails
+channels:
+  - defaults
+  - pytorch
+  - conda-forge
+dependencies:
+  - python >= 3.7
+  - h5py = 2.10.0
+  - pip
+  - jupyter
+  - jupyterlab
+  - ipykernel
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - networkx
+  - tqdm
+  - pytorch
+  - torchvision
+  - tensorboard
+  - rdkit
+  - lightgbm
+  - imblearn
