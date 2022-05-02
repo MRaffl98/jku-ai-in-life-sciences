@@ -22,4 +22,4 @@ dependencies:
   - tensorboard
   - rdkit
   - lightgbm
-  - imblearn
+  - fcd
