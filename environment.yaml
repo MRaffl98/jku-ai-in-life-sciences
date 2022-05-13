@@ -22,4 +22,7 @@ dependencies:
   - tensorboard
   - rdkit
   - lightgbm
-  - fcd
+  - keras >2.1,<2.3.1
+  - tensorflow >1.8,<2.1
+  - pip:
+    - fcd
