@@ -4,4 +4,4 @@ It contains my notebooks/source code and reports for three short challenges feat
 
 * Challenge 1: Drug Activity Prediction
 * Challenge 2: Molecule Generation
-* Challenge 3: ???
+* Challenge 3: Microscopy Image Challenge
