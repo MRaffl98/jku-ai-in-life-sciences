@@ -1,7 +1,7 @@
 name: ails
 channels:
-  - defaults
   - pytorch
+  - defaults
   - conda-forge
 dependencies:
   - python >= 3.7
@@ -17,12 +17,13 @@ dependencies:
   - scikit-learn
   - networkx
   - tqdm
-  - pytorch
-  - torchvision
+  - pytorch::pytorch
+  - pytorch::torchvision
   - tensorboard
   - rdkit
   - lightgbm
   - keras >2.1,<2.3.1
   - tensorflow >1.8,<2.1
+  - pillow=6.2.1
   - pip:
     - fcd
